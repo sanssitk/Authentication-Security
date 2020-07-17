@@ -93,6 +93,9 @@ dist
 # vuepress build output
 .vuepress/dist
 
+# before-passport-code
+.before-passport-code.js
+
 # Serverless directories
 .serverless/
 
